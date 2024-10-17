@@ -1,4 +1,4 @@
-wait(0.3)
+wait(0.2)
 -- Objects
 -- CREDIT TO xFunnieuss / Timeless for partial (short) names.
 -- OPFinality FE Gui by illremember
@@ -199,7 +199,7 @@ MainFrame.BackgroundTransparency = 1
 MainFrame.BorderSizePixel = 0
 MainFrame.ClipsDescendants = true
 MainFrame.Draggable = true
-MainFrame.Position = UDim2.new(0, 402, 0, 162)
+MainFrame.Position = UDim2.new(0, 473, 0, 162)
 MainFrame.Size = UDim2.new(0, 442, 0, 293)
 
 TopFrame.Name = "TopFrame"
